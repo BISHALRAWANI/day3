@@ -2,7 +2,7 @@
 i am bishal rawani and i studied from nsec first year 
  
  ## basic details 
- **name** *bishal*
+ **name** *BISHAL RAWANI*
  
  ### college details
  **college name**  *netaji subash engineering college*
@@ -24,5 +24,15 @@ i am bishal rawani and i studied from nsec first year
  
  3.udemy
  
+ ###### language known
+ 
+ 1.english
+ 
+ 2.hindi
+ 
+ 3.bengali
+ 
+ this is my profile link
+ [click on this](https://github.com/BISHALRAWANI/day3/edit/main/README.md)
  
  
